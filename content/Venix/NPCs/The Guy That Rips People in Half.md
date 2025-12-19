@@ -1,4 +1,4 @@
->   description of who this is
+>   This guy rips people in half
 
 ___
 ## Lore
