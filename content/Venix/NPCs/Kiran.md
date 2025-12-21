@@ -8,18 +8,21 @@ ___
 
 #### Characterization
 
-> Dislikes nobility, especially elven due to them commonly being misogynistic; believes nobles are full of themselves  
+> Dislikes nobility, especially elven due to them commonly being misogynistic; believes nobles are full of themselves. Wants to start over and rebuild the Empire
 
 #### Other
 
-> Previously used a pseudonym of Adelaide while working in the Adventuring Guild near the Capitol. As Adelaide she was prone to gossip to gain intel on different quests and scour the rumor mill
+> Previously used a pseudonym of Adelaide while working in the Adventuring Guild near the Capitol. As Adelaide she was prone to gossip to gain intel on different quests and scour the rumor mill and was very quick to advance to [[Adventure Guild Ranks#Ranks|Amethyst]] rank
 
 #### Relationships
 
-###### Right-Hand guy
-> XXX
-###### Duchess Carlet
+###### Raima
+> "Ry" Kiran's right-hand dwarf
+###### [[Duchess Carlet]]
 > Dislikes her for being self-important and controlling nearly all trade as well as the [[MacMillan Guild | MacMillan Mercenary Guild]]
+
+###### [[Lord Hux]]
+>Believes he's only helping Johannes and puts profit over people
 
 ___
 

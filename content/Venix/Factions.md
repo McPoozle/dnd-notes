@@ -4,18 +4,21 @@ The Empire stands at a crossroads. A weak and ineffectual leader has allowed cor
 > Led by [[Duchess Carlet]]
 
 ##### Notable Members
-- XXXX
+- [[Balm Sure#Gisela|Gisela Bramblevale]]
 
 ___
 ## Legalists
 > Led by [[Lord Hux]]
 
 ##### Notable Members
-- XXX
+- [[Lord Hux#Malphas|Malphas]]
+- [[Smaller-Scale NPCs#Earl Lugwyn|Earl Lugwyn]]
+- ~~[[Balm Sure#Bramblevales|Bramblevales]]
 
 ___
 ## Rebellion
 > Led by [[Kiran]]
 
 ##### Notable Members
-* XX
+* [[Kiran#Raima|Raima]]
+* [[Smaller-Scale NPCs#Goblin Tribe|Goblin Tribe]]

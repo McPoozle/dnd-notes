@@ -9,7 +9,7 @@
 > At time of our [[Adventure Guild Quest Board#Quest Town Cleanup | quest]] the town was rundown with dead animals piled up in front of the town, mainly sheep and cattle killed by the wolves from recent wolf attack, with some houses singed by fire from alighted wolves
 
 #### Other   
-> Within forest around Jackson we found wolves that were [[Not Quite Undead Animals | oozing a black substance]] that the guards had tried to immolate
+> Within forest around Jackson we found wolves that were [[Blighted Animals| oozing a black substance]] that the guards had tried to immolate
  
  ---
  

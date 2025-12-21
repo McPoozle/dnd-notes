@@ -4,7 +4,7 @@
 ## Lore
 
 #### Description
-> deeper explanation of what this place is
+> Farming is main livelihood of most residents. 
 
 #### Other   
 > any lore/additional information that isn't description
@@ -12,9 +12,11 @@
  ---
  
 ## Conflicts/Quests
-> list of plot hooks/quests central to the area
+> Location from our [[Adventure Guild Quest Board#Quest Evenseed Elemental Extermination|Fire Elemental Cleanup quest ]]
+> 
 
  ----
 
 ## Locations / NPCs
-> places of interest / encounters in the location; link to notes if the sub location is large/complex
+> Home of [[Smaller-Scale NPCs#Earl Lugwyn|Earl Lugwyn]]
+> Wizard Tower of [[Isolde's Exes#Enron|Enron]], one of Isolde's ex lovers; penchant for elemental-related magical experiments
