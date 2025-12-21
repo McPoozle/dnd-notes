@@ -24,7 +24,7 @@ ___
 > Also a Druid who can shapeshift into a Bear (definitely not a were-bear) and other animals
 
 ###### Aster Dawn
-> Man who emerged from the forest one day claiming to have the "Dawn" surname despite no records of that noble house. Has a dozen brother in faraway lands. Acts differently during the day and night. Working to own [[PETA]]. Does not believe in [[The Fog Lands]]
+> Man who emerged from the forest one day claiming to have the "Dawn" surname despite no records of that noble house. Has a dozen brother in faraway lands. Acts differently during the day and night. Working to own [[PETA]]. Does not believe in [[The Foglands]]
 
 
 ###### Shawaaf
