@@ -7,6 +7,8 @@ ___
 
 > Group of thieves / slave traders. Previously all original members worked for a Northern Dye Workshop together before it went under; the workshop specialized in a specific shade of red so their hands were permanently dyed. High degree of loyalty to "family" from the Dye shop
 
+>Dye workshop was on the Southeast of [[Winterholm]] just outside the city in a small village; used specific beetles to create signature red coloring; shop went out of business 10-15 years ago
+
 ___
 ## Known Locations
 

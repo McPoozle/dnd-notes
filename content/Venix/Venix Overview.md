@@ -60,21 +60,25 @@ ___
 ##### Viscounts
 - [[Lord Hux]] 
 - [[Lacrimiteres Party#Gorrister|Klein]] 
-- Gilderoy
-- Arizona
+- [[Tarrin#Adventure Guild Quest Board Quest Ball Entertainment Gilderoy Entertainment|Gilderoy]]
+- [[Acrine#Arizona Tea Warehouse|Arizona]]
 ##### Barons
 - [[Balm Sure#Bramblevales|Bramblevale]]  
-- McGilded 
+- [[Crossroads#McGilded Courtcase|McGilded]] 
 - [[Jackson#Baron Othello|Othello]] 
 - [[Smaller-Scale NPCs#Baroness Rutherford|Rutherford]] 
+- [[Tarrin#Baroness Far Arturo|Arturo]]
+- [[Haran#Baron Nosemaw|Nosemaw]]
+- [[Isolde's Exes#Viviane|Hathorn]]
 
 ##### Unknown Rank
 - [[MacMillan Guild|MacMillan]]
-- Worth
+- [[Smaller-Scale NPCs#Von Worth|Worth]]
 - [[Smaller-Scale NPCs#Varnel Amberbarrel|Amberbarrel]]
 - [[Smaller-Scale NPCs#Baron Marcelle Hammond|Hammond]]
 - Loudmantle
 - [[Dustwind#Lacy Spinove|Spinove]]
+
 
 ### Known Ex-Houses
 - [[Smaller-Scale NPCs#Crane|Marigolds]]
@@ -89,6 +93,9 @@ ___
 ___
 ## Venix-wide Institutions
 > Venix has a few largescale institutions that span across the dukedoms
+
+#### Religion
+>Vennix Empire overall isn’t particularly religious; God-King but everyone knows he’s not actually a god. Besides that no state religion and popular religions fluctuate; church of Iomedae fairly popular from ventures put forward
 
 #### Banks
 > Version that are Noble-run with promissory notes that can be handed out from specific noble houses to cash in

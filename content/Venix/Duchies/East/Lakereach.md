@@ -1,4 +1,4 @@
->1-2 sentence explanation of what this is 
+>Smaller town; heavily affected by floods from Winter natural disasters. Historically dominated trade in this area of the East
 
 ---
 ## Lore
@@ -17,6 +17,4 @@
  ----
 
 ## Locations / NPCs
-
-#### New Found Treasures
->Flagship gallery for [[Smaller-Scale NPCs#Erolith Valmear|Erolith Valmear]]'s business
+> places of interest / encounters in the location; link to notes if the sub location is large/complex

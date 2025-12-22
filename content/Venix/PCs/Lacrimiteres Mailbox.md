@@ -52,3 +52,13 @@
 >
 >Best,
 >Isolde of the Lacrimiteres Party
+
+
+### Winter 1435 - From Carlet
+>Urgent Letter for the Lacrimiteres delivered at the Adventuring Guild
+>
+>I apologize for reaching out without preamble. 
+>
+>Of the utmost import that you come East immediately. Disaster has struck and the Lake has overfilled, spilled over it’s boundaries and flooded towns. High winds in others and strange formations seen over water and mountainous regions. Destruction is everywhere and people are attempting to take advantage of the situation. 
+>
+>I need your assistance

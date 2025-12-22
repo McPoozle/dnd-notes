@@ -10,6 +10,11 @@
 >All animals but mainly [[Adventure Guild Quest Board#Quest Safari Cleanup|lions]] affected by a sickness at [[Balm Sure#Tim's Safari|Tim's Safari]]. The afflicted lions were lethargic until provoked. A central mound sent out waves of quakes accompanied by pillars of malevolent energy directed at individual people. The mound itself emitted a visible evil aura that made us feel sick as we approached. Upon digging it up, found a [[Blighted Animals#Buried Organ|black organ / tumor]] easily destroyed with a bout of Magic Missile, also destroying any affected animals. 
 >	Hyena brought in for study wasn't alive or undead (unaffected by positive energy spells) but didn't eat or drink and continually leapt at researchers  
 
+#### [[Towering Woods#Old Growth|Old Growth]]
+>Re-animated skeleton powered by black, pulsating heart spreading dark energy veins across the skeleton and can attack with the same Malevolent Beams as the lions in Balm Sure. Large hole that likely once held the skeleton found nearby with boot prints at the edge
+>
+>Ice rabbits also afflicted to some degree; don't dust on death, but bodies internally full of rot and black spores. [[Lacrimiteres Party#Ai|Ai]] took some of the spores for a specimen in a jar
+
 ___
 ## Possible Connections
 > We've discovered multiple instances of these blighted creatures across Venix

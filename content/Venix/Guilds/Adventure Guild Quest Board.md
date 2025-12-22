@@ -81,18 +81,20 @@ ___
 
 ###### Quest: Ball Entertainment
 - Taken: Winter 1 | Completed Winter 4
-- Location: Gilderoy Estate in Tarrin
+- Location: Gilderoy Estate in [[Tarrin]]
 - People requested: N/A
 - Urgency: N/A
 - Details: Provide entertainment at the Birthday Ball for the guests of Viscount Mallory Gilderoy 
+	- Ended up becoming a murder mystery with the Theatre Troupe; "Mallory" owes us a favor
 - **Reward**: XX GP ea.
 
 ###### Quest: Bandit Investigation
 - Taken: Winter 1 | Winter 4
-- Location: Tarrin
+- Location: [[Tarrin]]
 - People requested: 4-7
 - Urgency: Medium
 - Details: Recent reports of raids along the trade route up to Tarrin indicate a new bandit group, or a known group hiding their identity, is active in the area. Investigate a few key locations pulled from previous incidents and collect any information as to the group's identity. Presented conclusions that go against pre-established guild criteria will be summarily dismissed. Repeated offenses may result in demerits.
+	- Around 15 people seen initially; all generally able-bodied. Mentioned they have children with them. Have a boss with "word from above"
 - **Reward**: 280 GP ea.
 
 ###### Quest: Cryohydra Extermination
@@ -101,6 +103,7 @@ ___
 - People requested: N/A
 - Urgency: High
 - Details: Cryohydra Extermination quest - mountain pass region (annual reoccurance; clear to keep trade routes clean)
+	- 8 days out from Tarrin; mountains nearly impassable. Hydra had 5 heads with freezing breath attacks. Fire best way to kill it and prevent head growth. We looted some scales
 - **Reward**: 500 GP ea.
 
 
@@ -147,7 +150,8 @@ ___
 ###### Quest: Wares Defense
 - Taken: Fall 8x | Completed Fall 8x
 - Location: Northern Road
-- Details: Ad Hoc defense of Cantilever Coalition convoy on the way to Tarrin
+- Details: Ad Hoc defense of Cantilever Coalition convoy on the way to [[Tarrin]]
+	- 1 quest away from being eligible for Ruby rank-up
 - **Reward**: XX GP
 
 ###### Quest: Magic Experiment Cleanup
@@ -156,6 +160,7 @@ ___
 - People requested: 4-8
 - Urgency: Medium
 - Details: Recent experiments at Mandord's Magical Marvels are reported to have been both a smashing success and a spectacular failure, as usual. Clean up whatever mess he's created this time
+	- Mandor watched from a cafe across the street as we entered the workshop. Wooden doll maid constructs turn hostile upon seeing us; viewing people as dirt to be cleaned / destroyed. Isolde found Enron hiding in the storeroom but he wouldn't open the door. He told her where an off-switch was on the upstairs balcony. Dolls can cast fireball from hidden mouths. Aster managed to make his way through the dolls to turn off the gem powering them. 
 - **Reward**: 485 GP ea.
 
 ___
@@ -167,6 +172,7 @@ ___
 - People requested: 5-9
 - Urgency: Medium
 - Details: Strange events have been reported at the abandoned dye workshop to the southeast of the city. Reports mention strange lights, unnerving sounds, and the building shaking. Identify what is occurring, and if it is judged to be a threat, eliminate it
+	- Empty warehouse; faint footprints going from door to a central stone basin. Upon filling the basin with water, it continues to fill and turns into a portal to [[The Foglands]], with small, gaunt humanoid creatures coming out covered in tattered finery and an undead racoon fur cloak. They bit us (fangs) as we fought and could turn invisible. We broke the basin and killed the creatures.
 - **Reward**: 625 GP ea.
 
 ###### Quest: Cave Investigation
@@ -175,7 +181,19 @@ ___
 - People requested: Any
 - Urgency: Medium
 - Details: The caves on the northwest side of the city have been emitting an unidentified magical signature in the past two weeks. The MacMillan Corporation is requesting aid from the guild in investigating the cause of the signature. Any group or individuals accepting this request must also agree to verification by the company prior to granting of the request
+	- Warm cave all things considered; run into multiple gelatinous cubes, mimic stalgmites stirge swarms, and a magma elemental in an underground pond (temp hot spring lol); intellect devourers (that was actually a mimic) further into the cave. Cave itself extremely damp deeper in. Final room before a ruin has 2 basilisks, undead(?) dog, and a stone headless guy; guy gets un-stoned and is undead, accompanied by a summoned demonic horse
+		- Peltar finds a gold ring with inscription in draconic: "against the hordes" for better magic missile
+	- Ruins has Cassandra teleported somewhere inside after she touched something. Run into multiple puzzles to get through the ruin. No detriments to failed attempts, just pretentious "incorrect" sound. At end of puzzle rooms, large square room where we again encounter Aster's flaming skull dude who starts to fight us, beating us up. Shawaaf touches a red forcefield surrounding an altar, shattering it and sending out a wave of energy. He bleeds onto the altar and it pools before sinking into the stone lighting up before unseen runes. The entire room shakes and fog fully fills the room. Runes part of a spell but not recognized
 - **Reward**: 700 GP ea.
+
+###### Quest: Shipping Vessel Salvage
+- Taken: Winter XX | Completed
+- Location: [[Tormenta]]
+- People requested: Any
+- Urgency: High
+- Details:  large shipping vessel lost in recent storm; sunk somewhere in western portion of Lake; owners convinced it’s sunk but need proof. Also want to retrieve a few important items. Would cover cost of equipment and reward
+	- Provided water breathing potions and a diving bell to get to the ship; boat ride to the wreckage takes about half a day. Takes multiple hours to get to the bottom of the Lake in the bell. Find sahuagins have surrounded the ship and ship itself it still manned by an undead crew. Find the necklace with the Captain and recover the Captain's log. Peltar finds another necklace and puts it on. Ai almost eaten by a slime
+- **Reward**: 600 GP ea. + 400 GP if retrieve Duchy necklace
 
 ___
 ## *Sapphire Rank*

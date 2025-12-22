@@ -17,7 +17,7 @@
 >The Bramblevales hosted a Costume Ball for the local nobility and [[Lacrimiteres Mailbox|The Party]] was invited as thanks for solving the Safari incident
 >	~40 attendees; Ai overheard Jan arguing with the Bramblevales before Valerie Keravick collapses from poison. Mia and Maxim initially blamed by Jan as they provided the poisoned bread. Party stabilizes her and are put in charge of finding the culprit. Poison was Spider Venom
 >	
->	Investigated the servants, finding that a young new-hire Gil had poisoned the bread on orders given on a paper note ("974201 burn"). Knew that spilling the beans could get him killed but trusted us to keep him safe
+>	Investigated the servants, finding that a young new-hire Gil had poisoned the bread on orders given on a paper note ("974201 burn") presumably from Jan. Knew that spilling the beans could get him killed but trusted us to keep him safe
 >	
 >	Code on paper unlocked a safe in Jan's office with a vial of more Spider Venom alongside ledgers and other paperwork and a map marking the location of the [[Balm Sure#Scarlet Palm Hideout|Scarlet Palm Hideout]]
 >Afterwards marked as a [[Adventure Guild Ranks|Ruby]]-ranked quest but reward never got placed
@@ -30,12 +30,12 @@
 #### Auction House Dirty Deeds
 >After events of the Ball Poisoning / Hideout, we further infiltrated the Auction house finding multiple slave trade captives in the basement, assisted by [[Duchess Carlet#Adarian|Adarian]]. 
 >	Kidnapped People: [[Smaller-Scale NPCs#Robin|Robin]], 5 Sheepkin (adult [[Ancient Ruin Runes|Laurie]] and 4 children), 3 halfings (siblings Fain, Cotton, & McGrayson; all from [[Dustwind]])
->We dispatched the guards and Jan as they came to attack us. Adarian took the sheepkin children to a reputable orphanage
+>We dispatched the guards and Jan as they came to attack us. Adarian took the sheepkin children to a reputable orphanage in Clocktown
 >Exploring Jan's office, find puzzles hiding a magic necklace, status reports for the [[Scarlet Palm]], and receipts between the Bramblevales and Jan for large amounts of money, and a vial with an antidote for the Spider Venom (likely meant for Valerie so she wouldn't actually die)
 
 #### Dispatching Bramblevales
 >With evidence that the Bramblevales were working directly with Jan and by extension slave traders, the [[Lacrimiteres Party]] blackmail Nadiska and Theracy to abdicate their title and land and leave town. 
->After Bramblevales leave and title turned over to Gisela, we return to the estate to find Gil who was [[The Guy That Rips People in Half|ripped in half]] in the Bramblevale garden; a chambermaid claims something large and invisible just grabbed him and ripped him apart.
+>After Bramblevales leave and title turned over to Gisela, we return to the estate to find [[Balm Sure#Bramblevale Ball Poisoning|Gil]] who was [[The Guy That Rips People in Half|ripped in half]] in the Bramblevale garden; a chambermaid claims something large and invisible just grabbed him and ripped him apart.
 >Bramblevales had been taking down Adventure Guild quests related to the Scarlet Palm
 >Adarian assured us Nadiska and Theracy would be "taken care of" (killed on their way through Crossroads) to tie up loose ends
 
@@ -97,7 +97,7 @@
 >Mrs. Gorrister's Mom; has a servant named Meredith. Takes skincare very seriously. Bought the Bramblevale Barony title / land for 1 GP after Nadiska and Therecy were ousted on condition she would be loyal to Carlet. Very rich and thought to be a "power hungry bitch" by some locals
 
 #### Valerie Keravick
->Local noble (Earl) moved to Balm Sure during the Summer after living in [[Corpetty]]. Daughter [[Lacrimiteres Party#Jennifer Karavick|Jennifer]] wants to adventure. Also has son Xavier. Family hasn't owned land in generations
+>Local noble (Earl) moved to Balm Sure during the Summer after living in [[Corpetti]]. Daughter [[Lacrimiteres Party#Jennifer Karavick|Jennifer]] wants to adventure. Also has son Xavier. Family hasn't owned land in generations
 
 #### [[Smaller-Scale NPCs#Crane|Crane]]
 >Friend of Gisela; did not like Jan from the start and assisted with plan to investigate the Auction House. Has been looking into the Scarlet Palm up North

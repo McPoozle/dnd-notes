@@ -10,11 +10,13 @@ ___
 #### Characterization 
 >Grand Vizier to the [[Emperor Johannes]], Carlet claims she rewards based on merit, treats her people well (and seemingly only her people). The peasantry think highly of her from her public works programs
 >
->Has had those who go against her killed; this includes clerks guilty of embezzlement/mail fraud, and nobles who get too big for their britches ([[Bramblevales]])
+>Has had those who go against her killed; this includes clerks guilty of embezzlement/mail fraud, and nobles who get too big for their britches ([[Balm Sure#Bramblevales|Bramblevales]])
 >
 >According to Adarian she is "a very open-minded individual"
 
 > Despite the largescale dislike of kingroups, Carlet's close circle of employees includes multiple beastkin whom she seems to treat fairly
+> 
+> Stayed up for multiple days straight after natural disasters to push through relief funds; prioritizing her people's lives over her own wellbeing
 
 
 #### Other 
@@ -38,6 +40,7 @@ ___
 As a Duchess, Carlet holds a large amount of power in the Empire, especially due to her proximity and position next to the Emperor 
 ##### Adarian
 > Carlet's right hand man (wolf beastkin) who is unquestionably loyal to her and is known for doing her dirty work as a "loyal dog" 
+> 	Only works on her explicit instruction; knows Teleport & Detect Magic
 
 ##### Adje
 > Cat beastkin with green eyes (beastkin in general rare to see in the Capitol). Ajay is Carlet's errand girl and mainly seems to have a footman-esque role, greeting guests etc

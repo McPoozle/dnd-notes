@@ -19,7 +19,7 @@ ___
 ### Eastern NPCs
 
 #### Erolith Valmear
->Initially met at the [[Balm Sure#Bramblevale Ball Poisoning|Balm Sure Ball]], father starting a new business "New Found Treasures" (scam) of an art gallery where commoners and nobles can purchase art, but it stays in the gallery; flagship location in [[Corpetty]]. Father Earl Kristen is a spendthrift
+>Initially met at the [[Balm Sure#Bramblevale Ball Poisoning|Balm Sure Ball]], father starting a new business "New Found Treasures" (scam) of an art gallery where commoners and nobles can purchase art, but it stays in the gallery; flagship location in [[Corpetti]]. Father Earl Kristen is a spendthrift
 
 
 ___
@@ -42,10 +42,12 @@ ___
 >Player in the [[Balm Sure#Narrow Road Theatre|Narrow Road Theatre]] and student of [[Lacrimiteres Party#Isolde|Isolde]] in the ways of how to act
 
 #### Crane
->First met in [[Balm Sure]] at the Auction House. Specializes in Art. Brother Robin. Family lost their noble title (Marigolds) to a bad art investment. Keeping tabs on the [[Scarlet Palm]] bandit group up North as they have a track record of weaseling into town management . personally familiar with Adarian 
+>First met in [[Balm Sure]] at the Auction House. Specializes in Art. Brother Robin. Family lost their noble title (Marigolds) to a bad investment. Keeping tabs on the [[Scarlet Palm]] bandit group up North as they have a track record of weaseling into town management . Personally familiar with Adarian . Looking for the man that cost them their noble title (a charletan sold them fraudulent art)
 
 #### Robin
->Crane's younger brother. Prefers a free life of adventure to the standardization of being settled down. Likes to see to see how the people live. Largely raised in an orphanage after fall of their house; was very young when it happened
+>Crane's younger brother. Prefers a free life of adventure to the standardization of being settled down. Likes to see to see how the people live. Largely raised in an orphanage after fall of their house; was very young when it happened. Run into him while in [[Tarrin]] as he was there for a job investigating something. Wants to connect more with his brother 
+>	Hobbies: Knife throwing, reading (Adventure books)
+>	Works for the Shadow Core
 
 
 

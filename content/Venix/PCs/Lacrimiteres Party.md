@@ -17,7 +17,11 @@ ___
 	1. Summer 4, Boulder during Trial Quest for Adventure Guild
 		- No repercussions
 	2. Summer in [[Camerath]], Ghouls
-		- Hit by apathy for a few days
+		- Hit by apathy & fortitude loss for a few days
+	3. Were-Gater + Magic Missile Spray in [[Towering Woods]]
+		- Inflicted with were-gator (but it doesn't take) otherwise no consequences
+	4. Bandit arrows on Northern Road to [[Tarrin]]
+		- Prominent facial scar
 
 ###### Gorrister Klein
 > Ex-soldier looking for any word on the whereabouts of his father. Both parents used to be adventurers and dad went missing three years ago on "one last adventure"; wanting to prove himself and show that he's capable. Draconic bloodline
@@ -34,6 +38,10 @@ ___
 - In [[Jackson]]: open fields, something impossibly large in the sky, a droplet falls
 - In [[Camerath]] mine: Cheering crowd with a man on stage; signs read "Ted Cruz for President" and "All Lives Matter"
 - On the way to [[Dustwind]]: Falling in a dark void, stars flickering into and out of existence; know he’ll reach a point of no return but no stopping it; shapes flash in the stars: throne, crown, something round (bracelet/machinery?), gem
+- In the Dye Shoppe outside [[Winterholm]]: Red is everything there ever was and will be; red grass stretches out endlessly; all celestial bodies are red and an oncoming meteor is red; white sheep is becoming red, it eats the red grass and the world screams. It turns red and smiles with sharp teeth. Shawaaf is on the ground
+- In ruins under McMillan compound in [[Winterholm]]: In front of an entity behind a desk; clear screen in between you and the desk with a small hole where something could pass through. Faceless people all in line around you. Hits you. Countless hours in this line. Millenia. “Next”. He approaches the desk and looks through Shawaaf’s documents. Guy doesn’t want to be here. “You’ve been doing fine. It’s been fine. You know you’re allowed to harm undead, right?” “I would’ve loved to have clarified that.” “did you not read your contract? Anyways top wanted to let you know everything else is in order”. He stamps a paper receipt and hands it over. Shawaaf pockets it. “Alright get back in line”
+- In [[Kincardine]] while looking at Peltar's new [[The Foglands|Foglands]] key: suddenly staring at the silver of a desk back at the same clerk as before. Mind overwhelmed with lifetimes of standing waiting in line over a few seconds. Shawaaf is "overdue" for a vision but didn't have staff to assign it. Hands him written description of vision he was supposed to get. Shawaaf grabs it and starts fingering through the pages; as reading have visions accompanied by Vine booms. Still pond reflected in water. Winding corridor. 2 trees leaning against each other, silver sheen, FOG; familiar vertical cave at a shady grove. Flaming skull guy laughing at him
+
 
 ###### Ai
 > A green construct created by "Henry" on a quest to find a bard named "John" who plays a trumpet, is by all accounts average in every way but in bed, and is wanted for adultery charges. Commissioned in [[Camerath]]. Side gig as a court attorney
@@ -41,6 +49,8 @@ ___
 
 ###### Peltar
 > Mysterious wizard who claims to be from the future and is obsessed with a conspiracy about "The Red Hand". Very eccentric with an aversion to spells that aren't Magic Missile, choosing instead to use stage magic
+> 	Gained a key to [[The Foglands]]; putting it in an empty doorway and turning the key causes the “door” to shimmer dully like a funhouse mirror before opening a portal for about 30 seconds; thinking of a location before turning the key may link to that specific location; Peltar only tried this with his Perler Tower -> the key writing glows blue and illuminates ground going forward. Path ends at a meteor pit
+>Peltar believes he's in the past to make sure the canon events happen in Quinn's campaign; he's the chosen one
 
 
 ###### Sysko
@@ -71,28 +81,31 @@ ___
 ## Finances
 > While each member of the party has their own individual expenses, as a party we have completed [[Adventure Guild Quest Board | quests]] to earn Gold and have some shared expenses
 
-| Approx Date | Item  / Quest            | GP Income    | GP Expenses |
-| ----------- | ------------------------ | ------------ | ----------- |
-| Summer 3    | Horse Rentals            |              | 5 GP ea.    |
-| Summer 5    | Initial Quest Completion | 183 GP ea.   |             |
-| Summer 10   | Jackson Cleanup          | 150 GP ea.   |             |
-| Summer 12   | Goblin Intel Quest       | 300 GP tot.  |             |
-| Summer 27   | Ruins Cleanup            | 200 GP ea.   |             |
-| Summer 51   | Elemental Extermination  | 415 GP ea.   |             |
-| Summer 53   | Vermin Extermination     | 170 GP ea.   |             |
-| Summer 60   | Sewer Cleanup            | 45 GP ea.    |             |
-| Summer      | Carlet Sponsorship       | 4000 GP ea.  |             |
-| Summer      | Camerath Mines Loot      | 3,591 GP ea. |             |
-| Summer      | Camerath MacMillan Mines | 400 GP ea.   |             |
-| Fall 36     | Safari Cleanup           | 500 GP ea.   |             |
-| Fall 41     | Bandit Supression        | 420 GP ea.   |             |
-| Fall 55     | Missing Persons          | 600 GP ea.   |             |
-| Fall 72     | Wares Escort             | 400 GP ea.   |             |
-| Fall 8X     | Wares Defense            | XX GP ea.    |             |
-| Winter 1    | Year 1435 Taxes          |              | 250 GP ea.  |
-| Winter 4    | Ball Entertainment       | XX GP ea.    |             |
-| Winter 4    | Bandit Investigation     | 280 GP ea.   |             |
-| Winter X    | Cryohydra Extermination  | 500 GP ea.   |             |
-| Winter XX   | Dye Workshop Intel       | 625 GP ea.   |             |
-| Winter XX   | Experiment Cleanup       | 485 GP ea.   |             |
-| Winter XX   | Cave Investigation       | 700 GP ea.   |             |
+| Approx Date | Item  / Quest                 | GP Income    | GP Expenses |
+| ----------- | ----------------------------- | ------------ | ----------- |
+| Summer 3    | Horse Rentals                 |              | 5 GP ea.    |
+| Summer 5    | Initial Quest Completion      | 183 GP ea.   |             |
+| Summer 10   | Jackson Cleanup               | 150 GP ea.   |             |
+| Summer 12   | Goblin Intel Quest            | 300 GP tot.  |             |
+| Summer 27   | Ruins Cleanup                 | 200 GP ea.   |             |
+| Summer 51   | Elemental Extermination       | 415 GP ea.   |             |
+| Summer 53   | Vermin Extermination          | 170 GP ea.   |             |
+| Summer 60   | Sewer Cleanup                 | 45 GP ea.    |             |
+| Summer      | Carlet Sponsorship            | 4000 GP ea.  |             |
+| Summer      | Camerath Mines Loot           | 3,591 GP ea. |             |
+| Summer      | Camerath MacMillan Mines      | 400 GP ea.   |             |
+| Fall 36     | Safari Cleanup                | 500 GP ea.   |             |
+| Fall 41     | Bandit Supression             | 420 GP ea.   |             |
+| Fall 55     | Missing Persons               | 600 GP ea.   |             |
+| Fall 72     | Wares Escort                  | 400 GP ea.   |             |
+| Fall 8X     | Wares Defense                 | XX GP ea.    |             |
+| Fall XX     | Selling Loot                  | 2084 GP ea.  |             |
+| Winter 1    | Year 1435 Taxes               |              | 250 GP ea.  |
+| Winter 4    | Ball Entertainment            | XX GP ea.    |             |
+| Winter 4    | Bandit Investigation          | 280 GP ea.   |             |
+| Winter X    | Cryohydra Extermination       | 500 GP ea.   |             |
+| Winter XX   | Dye Workshop Intel            | 625 GP ea.   |             |
+| Winter XX   | Experiment Cleanup            | 485 GP ea.   |             |
+| Winter XX   | Cave Investigation            | 700 GP ea.   |             |
+| Winter XX   | Pozo Population Investigation | 600 GP ea.   |             |
+| Winter XX   | Edmund Fitzhubert Ship        | 1000 GP ea.  |             |
