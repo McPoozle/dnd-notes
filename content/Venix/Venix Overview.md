@@ -69,7 +69,7 @@ ___
 - [[Smaller-Scale NPCs#Baroness Rutherford|Rutherford]] 
 - [[Tarrin#Baroness Far Arturo|Arturo]]
 - [[Haran#Baron Nosemaw|Nosemaw]]
-- [[Isolde's Exes#Viviane|Hathorn]]
+- [[Isolde's Exes#Viviane|Hawthorn]]
 
 ##### Unknown Rank
 - [[MacMillan Guild|MacMillan]]

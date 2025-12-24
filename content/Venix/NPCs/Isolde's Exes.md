@@ -2,7 +2,7 @@
 
 
 ### Viviane
-> Drow woman from Isolde's hometown of [[Tormenta]]; has gone on to be an owner of a largescale general goods store chain. She and Isolde were childhood friends and dated early on for a while in 1415
+> Drow woman from Isolde's hometown of [[Tormenta]]; has gone on to be an owner of a largescale general goods store chain. She and Isolde were childhood friends and dated early on for a while in 1415; bought the Hawthorn barony title / land and is extremely wealthy
 
 ### Mimn
 > Dwarf Isolde met in [[Rusvile]] in 1420 and dated for just over a year while Isolde and her father were working at the [[Venix Overview#South | Understr]] residence

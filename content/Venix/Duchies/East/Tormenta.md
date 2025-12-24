@@ -25,7 +25,7 @@
 
 
 #### Adventuring Party Wipeout
->The Silver Shield Adventuring Party had been on a special escort mission for Viviane Hathorn and were attacked a few days outside the town. All but Marty were killed. Marty let slip he was going on a mission to 5 people and the [[Lacrimiteres Party]] is put in charge of finding out who attacked them and stole the relief effort supplies
+>The Silver Shield Adventuring Party had been on a special escort mission for Viviane Hawthorn and were attacked a few days outside the town. All but Marty were killed. Marty let slip he was going on a mission to 5 people and the [[Lacrimiteres Party]] is put in charge of finding out who attacked them and stole the relief effort supplies
 >
 >More than just bad actors. Of caravans attacked all are specifically guarded by adventurers instead of the McMillan-guarded caravans. Viviane believes whoever is stealing is an adventurer; well aware of “Adelaid’s” propensity to interfere with the guild. Doesn’t have the marks of the rebellion; been so busy up North likely don’t have time to interfere down here. We're instructed not to kill anyone
 >
@@ -42,7 +42,7 @@
 >	Aster, Sysko, and Shawaaf find him in The Silver Cup bar. Doesn't want to talk. They follow him to his Inn and he leaves around sunset heading out of town. Get spotted and ask what Marty told him; not talking as he's on "personal business"
 
 ##### Corelley & Wagner
->Fire and Ice themes; held Marty against a wall until he told them it was a mission for Lady Hathorn. 
+>Fire and Ice themes; held Marty against a wall until he told them it was a mission for Lady Hawthorn. 
 >	Isolde, Gorrister, Ai find them outside the Guild. Corelley constantly yawning / tired. Wagner doesn't talk but seems itching for a fight. Claims don't have details other than just wanting to know what Marty was up to. Only take bandit-related jobs. Marty had pissed off Wagner leading to the scuffle Marty mentioned. Haven't noticed any Scarlet Palm members but tend to burn the bandits they encounter. Mentioned attacks seem more coordinated recently. They leave when called over by a man in an alley. Idris follows them to an nondescript door that has a sliding peephole.
 
 ##### Dave
@@ -69,11 +69,11 @@
 #### Kin Encampment
 >Supposed mousekin encampment about 3 days West of town that can assist with Isolde's wild magic predicament (only eating raw meat). Have a wind wall surrounding the camp
 
-#### Hathorn General Store
+#### Hawthorn General Store
 >Large store not far from the docks. Massive gravel lot in front and has a large bright sign
 
-##### [[Isolde's Exes#Viviane|Viviane Hathorn]]
->Bought out the Adventure Guild and acting Guild Master and Mayor. Bought the Hathorn barony title / land. She's gone up in the world but only cares about work with not much else going on in her life. Not happy to see [[Lacrimiteres Party#Isolde|Isolde]]. Likely richest woman this side of the continent outside the Duchess
+##### [[Isolde's Exes#Viviane|Viviane Hawthorn]]
+>Bought out the Adventure Guild and acting Guild Master and Mayor. Bought the Hawthorn barony title / land. She's gone up in the world but only cares about work with not much else going on in her life. Not happy to see [[Lacrimiteres Party#Isolde|Isolde]]. Likely richest woman this side of the continent outside the Duchess
 
 #### Adventuring Guild
 >Outpost for the [[Adventure Guild]]; bustling with activity and quest board full. 

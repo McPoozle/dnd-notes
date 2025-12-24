@@ -41,8 +41,8 @@
 ##### Church of Pharasma
 >Small and seen better days; not falling apart but very empty with old interior
 
-#### Hathorn General Store
->Huge mega-store owned by [[Isolde's Exes#Viviane|Viviane Hathorn]] with branded items
+#### Hawthorn General Store
+>Huge mega-store owned by [[Isolde's Exes#Viviane|Viviane Hawthorn]] with branded items
 
 #### Cultural District
 >Includes Art Museums, Theatres, pubs / bars, Auction House, and public parks
