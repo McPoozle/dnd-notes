@@ -5,7 +5,7 @@
 
 #### Description
 > Small town has changed and grown a lot since Isolde was last here just a year or so ago. Bustling with new construction, only slightly delayed from the recent natural disasters. 
-> 	Tormenta hasn't heard back from some of the smaller towns since disasters struck which isn't good
+> > Tormenta hasn't heard back from some of the smaller towns since disasters struck which isn't good
 
 #### Other   
 > Lake water is green around the new lakeside construction. 
@@ -25,7 +25,7 @@
 
 
 #### Adventuring Party Wipeout
->The Silver Shield Adventuring Party had been on a special escort mission for Viviane Hawthorn and were attacked a few days outside the town. All but Marty were killed. Marty let slip he was going on a mission to 5 people and the [[Lacrimiteres Party]] is put in charge of finding out who attacked them and stole the relief effort supplies
+>The Silver Shield Adventuring Party (Ruby) were attacked a couple days out of town while on a special escort mission for Viviane Hawthorn. All but [[Tormenta#Marty|Marty]] were killed. Marty let slip details before they left to 5 people; [[Lacrimiteres Party]] tasked to find the attacker / who stole the relief effort supplies
 >
 >More than just bad actors. Of caravans attacked all are specifically guarded by adventurers instead of the McMillan-guarded caravans. Viviane believes whoever is stealing is an adventurer; well aware of “Adelaid’s” propensity to interfere with the guild. Doesn’t have the marks of the rebellion; been so busy up North likely don’t have time to interfere down here. We're instructed not to kill anyone
 >
@@ -34,20 +34,22 @@
 > Possible suspects from Marty:
 ##### Zalona
 >Half-elf fighter, Emerald-ranked; told her it was a Protection job
->	Aster and Peltar find her at The Drunken Pigeon - a seedy bar open in the morning. She's in debt to a booky Maverick but didn't have additional info on Marty. Doesn't like Marty personally but upset about the Silver Shield. Seemed to be telling the truth about not knowing of the incident
->	In need of coin quick; claims she "has an investment that will pay off in a couple days" to pay back her 6kGP loan
+>> Found in The Drunken Pigeon (seedy bar). She's in debt to a booky Maverick. Had no additional info on the incident
+>> In need of coin quick; claims she "has an investment that will pay off in a couple days" to pay back her 6kGP loan. This "investment" was an poker tournament that she got kicked out of for being a sore loser
 
 ##### Richard
->Surly halfling Amethyst-ranked; irritable guy; told him at a bar and Marty not sure how much slipped out
->	Aster, Sysko, and Shawaaf find him in The Silver Cup bar. Doesn't want to talk. They follow him to his Inn and he leaves around sunset heading out of town. Get spotted and ask what Marty told him; not talking as he's on "personal business"
+>Surly halfling Amethyst-ranked; irritable guy; talked to him at a bar and Marty not sure how much slipped out
+>> Found in The Silver Cup bar. Doesn't want to talk. They follow him to his Inn and he leaves around sunset heading out of town. Get spotted and ask what Marty told him; not talking as he's on "personal business"
+>Couple days later found him [[The Guy That Rips People in Half#Richard in Tormenta|ripped in half]] a few days later in his room. He had a diary with entries that suddenly stopped 2 weeks prior
 
-##### Corelley & Wagner
+##### Corelli & Wagner
 >Fire and Ice themes; held Marty against a wall until he told them it was a mission for Lady Hawthorn. 
->	Isolde, Gorrister, Ai find them outside the Guild. Corelley constantly yawning / tired. Wagner doesn't talk but seems itching for a fight. Claims don't have details other than just wanting to know what Marty was up to. Only take bandit-related jobs. Marty had pissed off Wagner leading to the scuffle Marty mentioned. Haven't noticed any Scarlet Palm members but tend to burn the bandits they encounter. Mentioned attacks seem more coordinated recently. They leave when called over by a man in an alley. Idris follows them to an nondescript door that has a sliding peephole.
+>> Found outside the [[Adventure Guild]]. Corelli constantly yawning / tired; also blind. Wagner doesn't talk but itching for a fight. Claims don't have details other than just wanting to know what Marty was up to. Only take bandit-related jobs. Haven't noticed any Scarlet Palm members but tend to burn the bandits they encounter. Mentioned attacks seem more coordinated recently. They leave when called over by a man in an alley
+>> > Not related to incident; other job in Leaf (possibly other) drug distribution from small but well-guarded and protected setup off a back alleyway
 
 ##### Dave
 >Pearl-ranked adventurer; has a wife and 4th kid on the way. Marty told him he'd be going out of town for a few days
->	Seems like a nice guy. Friends with Marty and the rest of the Silver Shield. Says Marty had only mentioned in passing at the Guild Hall that he'd be going out of town. Doesn't know of anyone that would want to harm the group specifically. Not many people were at the guild as they go at odd-times to avoid crowds
+>> Seems like a nice guy. Friends with Marty and the rest of the Silver Shield. Says Marty had only mentioned in passing at the Guild Hall that he'd be going out of town. Doesn't know of anyone that would want to harm the group specifically
 
 ##### Additional Interviews
 > Shawaaf asks **Timothy** at the Adventuring Guild if he knows anything; no good info
@@ -57,8 +59,10 @@
 > Party goes back to talk with **Marty**; before the attack they heard some sounds but brushed it off as animals; didn't seem human. An explosion and Marty was hit in the back of the head by something large; came to and heard screaming and weapons clanging. Later able to push a scorched piece of wagon off of himself. Everyone was dead and everything gone. Made his way back to Tormenta. Attackers were either multiple or very quick; noises in one place and then another in an instant
 
 ##### Scene of the Crime
->Day 2 we take Marty with us to the scene of the attack for more research
+>We took Marty with us to the scene of the crime; confirmed a fight took place and explosions came from further ahead on the path. Regarding cargo, nothing was fully destroyed or left behind - everything was taken. Path itself relatively well traveled due to recent increase in trading. About a half day's ride further North, we found the remains of a small camp with 3 clearings for tents. Footsteps lead from camp and abruptly stop - possibly from using a Teleport spell
 
+#### Scarlet Palm Ruins Investigation
+>Take on another quest after telling Vivian about Richard; don't want the [[Scarlet Palm]] in the area if we can help it. 
 ----
 
 ## Locations / NPCs
@@ -77,7 +81,7 @@
 
 #### Adventuring Guild
 >Outpost for the [[Adventure Guild]]; bustling with activity and quest board full. 
->	Clerk: Timothy
+>> Clerk: Timothy
 
 #### Magic Shoppe
 >Regular shmegular
@@ -87,9 +91,8 @@
 
 #### Eliza
 >[[Smaller-Scale NPCs#Eliza|Eliza]] in town and homeless; was going to [[Corpetti]] to start a new Eastern branch of [[PETA]] but was taken aback by the FISHING going on in Tormenta. Temporarily living in Isolde's home. Working on gathering new members here
->	Previous attempts to start Eastern branches never heard back from reps; Eliza got a panicked message "the shadows are watching; beware the shadow" but ignored it. Didn't hear back from people in Corpetti
+>> Previous attempts to start Eastern branches never heard back from reps; Eliza got a panicked message "the shadows are watching; beware the shadow" but ignored it. Didn't hear back from people in Corpetti
 >Aster takes her for an "intervention" at the Lake with Gorrister; traumatize her with dolphins
 
-
 #### Marty
->Previous member of the Ruby-ranked Steel Shield adventuring party. Only survivor after attack on their escort mission; had his head caved in a bit. Weasel-like guy and very pathetic. Spilled the beans about the trip
+>Previous member of the Ruby-ranked Steel Shield adventuring party. Only survivor after attack on their escort mission; had his head caved in a bit. Weasel-like guy and very pathetic. Spilled the beans about the trip but doesn't appear to be involved

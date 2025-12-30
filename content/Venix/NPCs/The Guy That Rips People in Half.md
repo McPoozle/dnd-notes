@@ -23,6 +23,8 @@ ___
 #### [[Winterholm#Adventure Guild Quest Board Quest Dye Workshop Intel Dye Workshop|Dye Workshop]]
 >Northern Dye workshop initial starting point for the [[Scarlet Palm]]; in a connected shed found a dwarf who had been cut cleanly in half frozen on the floor. Likely there no more than a season but frozen solid. No one locally knew who they were. Their hands were dyed red
 
+#### Richard in [[Tormenta]]
+>Likely working with the [[Scarlet Palm]] to some extent. Made his trade as an Adventurer and hunter. Had a diary that abruptly ended it's entries 2 weeks before his death. Found ripped in half in his hotel room, 2 days after last interacting with him. 
 
 ___
 

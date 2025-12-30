@@ -1,6 +1,9 @@
 > The Empire is made of 4 Dukedoms and a Central section. Each Duchy is overseen by a Duke / Duchess and the Overall Empire is managed by the Emperor who also oversees the Central district
 
 ___
+
+[Venix_current.pdf](https://cdn.discordapp.com/attachments/545799168401211392/1406700751564050483/Venix_current.pdf?ex=6955662a&is=695414aa&hm=d377baa46a757a9125eb5fbe307412112a50d7b1e5b19882cf3f07c5ee7bf63a&)
+
 ## Dukedoms
 #### Central
 >Maintained by the [[Emperor Johannes]]; however, currently is largely overseen by [[Duchess Carlet]] as the Emperor would rather socialize than go through paperwork. Overall Capitol in [[Venix Capitol | The Capitol]]. The Capitol is solely controlled by the Empire and not an individual Duchy

@@ -17,6 +17,10 @@ ___
 #### [[Crossroads]]
 >Larger branch; less risk-forward than Eliza's branch in Camerath
 
+#### [[Tormenta]]
+>Still in early stages; members are **Eliza**, **Carol**, and **Brian** with no set clubhouse
+>> Carol and Brian claim something has been watching / following them while in town; saw a shadow / black coat on a rooftop
+
 ___
 ### Notable Members
 >Ingrid started it, but no clear hierarchy; local "leaders" are just the ones who started the branch
