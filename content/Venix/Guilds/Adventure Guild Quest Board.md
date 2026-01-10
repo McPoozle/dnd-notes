@@ -163,6 +163,17 @@ ___
 	- Mandor watched from a cafe across the street as we entered the workshop. Wooden doll maid constructs turn hostile upon seeing us; viewing people as dirt to be cleaned / destroyed. Isolde found Enron hiding in the storeroom but he wouldn't open the door. He told her where an off-switch was on the upstairs balcony. Dolls can cast fireball from hidden mouths. Aster managed to make his way through the dolls to turn off the gem powering them. 
 - **Reward**: 485 GP ea.
 
+###### Quest: Ruin Guards
+- Taken: Winter XX | In Progress
+- Location: [[Tormenta]]
+- People requested: Any
+- Urgency: Medium
+- Details: A prominent archeologist--whose name has been redacted from the request for their privacy--is requesting a guard as they explore an uner-explored ruin not far from the city. They cite the recent rise in bandit attacks following the disaster as their primary reason for wanting a guard, and offer a hefty sum in exchange for keeping them and their assistant safe.
+	- Peter B Jordanson & assistant [[Balm Sure#Auction House Dirty Deeds|Laurie]]. Got sealed into the ruin after Jordanson put the wrong power gem in the socket. Multiple eye-related puzzles and motifs; [[Lacrimiteres Party#Isolde|Isolde]] loses an eye due to . 
+- **Reward**: 700 GP ea.
+
+
+
 ___
 ## *Emerald Rank*
 

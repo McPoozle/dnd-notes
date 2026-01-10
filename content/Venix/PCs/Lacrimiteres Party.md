@@ -110,3 +110,4 @@ ___
 | Winter XX   | Cave Investigation            | 700 GP ea.   |             |
 | Winter XX   | Pozo Population Investigation | 600 GP ea.   |             |
 | Winter XX   | Edmund Fitzhubert Ship        | 1000 GP ea.  |             |
+| Winter XX   | Silver Shield Wipe Out        | 1000 GP ea.  |             |

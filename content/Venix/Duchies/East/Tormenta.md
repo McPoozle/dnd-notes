@@ -35,7 +35,7 @@
 ##### Zalona
 >Half-elf fighter, Emerald-ranked; told her it was a Protection job
 >> Found in The Drunken Pigeon (seedy bar). She's in debt to a booky Maverick. Had no additional info on the incident
->> In need of coin quick; claims she "has an investment that will pay off in a couple days" to pay back her 6kGP loan. This "investment" was an poker tournament that she got kicked out of for being a sore loser
+>> In need of coin quick; claims she "has an investment that will pay off in a couple days" to pay back her 6kGP loan. This "investment" was an poker tournament that she got kicked out of for being a sore loser. Gambling problem got her in massive debt due to interest; Aster took on her debt to help her out
 
 ##### Richard
 >Surly halfling Amethyst-ranked; irritable guy; talked to him at a bar and Marty not sure how much slipped out
@@ -51,18 +51,15 @@
 >Pearl-ranked adventurer; has a wife and 4th kid on the way. Marty told him he'd be going out of town for a few days
 >> Seems like a nice guy. Friends with Marty and the rest of the Silver Shield. Says Marty had only mentioned in passing at the Guild Hall that he'd be going out of town. Doesn't know of anyone that would want to harm the group specifically
 
-##### Additional Interviews
-> Shawaaf asks **Timothy** at the Adventuring Guild if he knows anything; no good info
-> 
-> Isolde asks **Viviane** about frequency of shipment requests; Silver Shield picked as they were high on the ranking system. Nothing solid
-> 
-> Party goes back to talk with **Marty**; before the attack they heard some sounds but brushed it off as animals; didn't seem human. An explosion and Marty was hit in the back of the head by something large; came to and heard screaming and weapons clanging. Later able to push a scorched piece of wagon off of himself. Everyone was dead and everything gone. Made his way back to Tormenta. Attackers were either multiple or very quick; noises in one place and then another in an instant
-
 ##### Scene of the Crime
 >We took Marty with us to the scene of the crime; confirmed a fight took place and explosions came from further ahead on the path. Regarding cargo, nothing was fully destroyed or left behind - everything was taken. Path itself relatively well traveled due to recent increase in trading. About a half day's ride further North, we found the remains of a small camp with 3 clearings for tents. Footsteps lead from camp and abruptly stop - possibly from using a Teleport spell
 
 #### Scarlet Palm Ruins Investigation
 >Take on another quest after telling Vivian about Richard; don't want the [[Scarlet Palm]] in the area if we can help it. 
+>> Take on [[Adventure Guild Quest Board#Quest Ruin Guards|Ruin Guard quest]] to verify those ruins. 
+
+
+
 ----
 
 ## Locations / NPCs
@@ -96,3 +93,6 @@
 
 #### Marty
 >Previous member of the Ruby-ranked Steel Shield adventuring party. Only survivor after attack on their escort mission; had his head caved in a bit. Weasel-like guy and very pathetic. Spilled the beans about the trip but doesn't appear to be involved
+
+#### Local Loan Sharks
+> Led by "Ice Man"; main encounter with booky Maverick. Some additional goons. Multiple businesses but mainly loans with incredible interest

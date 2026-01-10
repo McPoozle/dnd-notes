@@ -26,7 +26,6 @@ ___
 #### [[Dustwind]]
 >Frequently attack the people of Dustwind and steal people for trafficking. Local group had broken up (likely from us removing the leadership from the Balm Sure [[Balm Sure#Scarlet Palm Hideout|hideout]]) and they were trying to figure out what to do next. These guys only had strips of red cloth tied to their gear - grunts not likely from the original Dye Workshop group
 
-
 ___
 ## Known Members
 
